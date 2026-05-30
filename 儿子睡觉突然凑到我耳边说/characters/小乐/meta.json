@@ -1,0 +1,17 @@
+{
+  "name": "小乐",
+  "category": "characters",
+  "description": "小乐角色设定板——8岁小男孩，敏感倔强的孩子",
+  "prompts": {
+    "original": "小乐角色设定板——8岁小男孩，敏感倔强的孩子",
+    "optimized": "请创作一张高完成度的「电影级角色设定板」。\n\n角色名称：小乐\n年龄：8岁\n身高：约1.25米\n体型：小男孩标准身量，偏瘦\n风格方向：电影级风格化真人实拍，真实儿童演员质感，东方角色设计\n性格关键词：天真敏感、倔强固执、胆小依赖、乖巧懂事、渴望陪伴\n外貌特征：圆脸，大眼睛，睫毛长，鼻头微翘，缺一颗门牙，短发微乱，刘海常遮住半边额头\n服装设定：卡通图案睡衣（恐龙/小熊），白天穿校服（蓝白配色），脚上踩棉拖鞋\n场景气质：现代都市小学生，家庭变故中敏感的孩子\n\n要求生成一张像影视或动画项目开发用的高级角色提案板，而不是普通三视图。\n\n版面结构必须包含：\n1. 一张主视觉角色立像\n2. 一组全身多角度转面图（正面、3/4、侧面、背面、3/4背面）\n3. 一组头部研究图（正面、3/4、侧面、低头、抬头、动态角度）\n4. 一张电影感情绪肖像\n5. 一组服装与配件拆解说明\n6. 少量专业标注信息（角色名、身高刻度、材质备注、性格关键词）\n\n排版要求：\n- 竖版大画幅\n- 不要规则网格，不要机械对称\n- 构图要像美术指导设计过，略带不对称感\n- 背景为中性灰或浅灰提案板质感\n- 画面高级、清晰、专业、具备电影提案板气质\n\n表现要求：\n- 角色像真实儿童演员在镜头中被捕捉，而不是摆拍模特\n- 必须呈现真人儿童演员的皮肤质感、毛孔细节、真实光影\n- 儿童面部特征必须自然：缺门牙的缝隙、微乱的刘海、天然的皮肤纹理\n- 五官、身材比例、发型、服装在所有角度中必须严格一致\n- 皮肤、布料等材质必须真实\n- 整张图要有电影感、角色感、故事感和高一致性\n\nCRITICAL STYLE REQUIREMENTS:\nThis must look like REAL PHOTOGRAPHY of actual human actors, NOT a CG render, NOT a 3D model, NOT a digital painting, NOT anime, NOT an illustration, NOT AI-generated plastic skin.\nShot on 35mm Kodak film stock, anamorphic lens, natural film grain, practical lighting, live-action feature film production stills.\nThe skin must show real pores, subtle imperfections, natural skin texture with visible pores and micro-wrinkles.\nThe eyes must have natural catchlights and iris detail, not flat or glassy.\nThe hair must have individual strand detail and natural flyaways, not helmet-like blocks.\nFabrics must show real weave texture, natural wrinkles, and wear patterns.\nAll panels must look like they were photographed on a real set with a real actor, not rendered in a computer.\nReject any CG smoothness, plastic sheen, or artificial perfection."
+  },
+  "images": [
+    "小乐.png",
+    "小乐_v2.png"
+  ],
+  "primary_image": "小乐_v2.png",
+  "tags": [],
+  "created_at": "2026-05-26T16:55:52.163521",
+  "updated_at": "2026-05-26T17:05:44.395806"
+}

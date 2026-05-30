@@ -1,0 +1,17 @@
+{
+  "name": "婉瑜",
+  "category": "characters",
+  "description": "婉瑜角色设定板——30岁出头都市女性，隐忍克制的年轻母亲",
+  "prompts": {
+    "original": "婉瑜角色设定板——30岁出头都市女性，隐忍克制的年轻母亲",
+    "optimized": "请创作一张高完成度的「电影级角色设定板」。\n\n角色名称：婉瑜\n年龄：30岁出头\n身高：约1.62米\n体型：中等偏瘦，肩膀窄，锁骨明显\n风格方向：电影级风格化真人实拍，真实演员质感，东方角色设计\n性格关键词：隐忍克制、敏感脆弱、焦虑隐伏、温柔内敛、孤独倔强\n外貌特征：五官清秀偏淡，肤色偏白但不红润，眉毛细长，眼角微微下垂，眼底常年有淡淡青黑，黑色长发及肩，日常扎低马尾或随意披着，碎发常贴在脸侧\n服装设定：素色家居服为主（米白、灰蓝、浅卡其），偶尔外出穿简约风衣或针织衫\n场景气质：现代都市普通住宅，年轻母亲，婚姻危机中的隐忍女性\n\n要求生成一张像影视或动画项目开发用的高级角色提案板，而不是普通三视图。\n\n版面结构必须包含：\n1. 一张主视觉角色立像\n2. 一组全身多角度转面图（正面、3/4、侧面、背面、3/4背面）\n3. 一组头部研究图（正面、3/4、侧面、低头、抬头、动态角度）\n4. 一张电影感情绪肖像\n5. 一组服装与配件拆解说明\n6. 少量专业标注信息（角色名、身高刻度、材质备注、性格关键词）\n\n排版要求：\n- 竖版大画幅\n- 不要规则网格，不要机械对称\n- 构图要像美术指导设计过，略带不对称感\n- 背景为中性灰或浅灰提案板质感\n- 画面高级、清晰、专业、具备电影提案板气质\n\n表现要求：\n- 角色像真实演员在镜头中被捕捉，而不是摆拍模特\n- 必须呈现真人演员的皮肤质感、毛孔细节、真实光影\n- 五官、身材比例、发型、服装在所有角度中必须严格一致\n- 皮肤、布料、金属、皮革等材质必须真实\n- 整张图要有电影感、角色感、故事感和高一致性\n\nCRITICAL STYLE REQUIREMENTS:\nThis must look like REAL PHOTOGRAPHY of actual human actors, NOT a CG render, NOT a 3D model, NOT a digital painting, NOT anime, NOT an illustration, NOT AI-generated plastic skin.\nShot on 35mm Kodak film stock, anamorphic lens, natural film grain, practical lighting, live-action feature film production stills.\nThe skin must show real pores, subtle imperfections, natural skin texture with visible pores and micro-wrinkles.\nThe eyes must have natural catchlights and iris detail, not flat or glassy.\nThe hair must have individual strand detail and natural flyaways, not helmet-like blocks.\nFabrics must show real weave texture, natural wrinkles, and wear patterns.\nAll panels must look like they were photographed on a real set with a real actor, not rendered in a computer.\nReject any CG smoothness, plastic sheen, or artificial perfection."
+  },
+  "images": [
+    "婉瑜.png",
+    "婉瑜_v2.png"
+  ],
+  "primary_image": "婉瑜_v2.png",
+  "tags": [],
+  "created_at": "2026-05-26T16:51:48.474472",
+  "updated_at": "2026-05-26T17:05:08.285264"
+}
